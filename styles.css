@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 300vh
+}
+
+.box1, .box2, .box3, .box4, .box5, .box6, .box7, .box8, .box9, .box10, .box11, .box12, .box13, .box14, .box15, .box16, .box17, .box18, .box19, .box20 {
+    position: absolute;
+    width: 100%;
+    height: 10px;
+    background-color: aqua;
+    transition: 0.35s;
+    left: 50%;
+    transform: translate(-50%);
+}
+
+.box1 {
+    top: 40%;
+}
+.box2 {
+    top: 50%;
+}
+.box3 {
+    top: 60%;
+}
+.box4 {
+    top: 70%;
+}
+.box5 {
+    top: 80%;
+}
+.box6 {
+    top: 90%;
+}
+.box7 {
+    top: 100%;
+}
+.box8 {
+    top: 110%;
+}
+.box9 {
+    top: 120%;
+}
+.box10 {
+    top: 130%;
+}
+.box11 {
+    top: 140%;
+}
+.box12 {
+    top: 150%;
+}
+.box13 {
+    top: 160%;
+}
+.box14 {
+    top: 170%;
+}
+.box15 {
+    top: 180%;
+}
+.box16 {
+    top: 190%;
+}
+.box17 {
+    top: 200%;
+}
+.box18 {
+    top: 210%;
+}
+.box19 {
+    top: 220%;
+}
+.box20 {
+    top: 230%;
+}
+
+.close {
+    width: 0px;
+    background-color: grey;
+    height: 15px;
+}
+
+.title {
+    position: fixed;
+    color: grey;
+    font-size: 50px;
+    width: 100%;
+    top: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-family: sans-serif;
+}
